@@ -1,0 +1,7 @@
+4.0K	README.md
+24K	backup_scripts
+4.0K	generate_practice_env.sh
+232K	linux_practice
+0	main
+52K	organized
+236K	today_backup
